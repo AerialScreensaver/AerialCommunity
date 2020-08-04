@@ -1,0 +1,14 @@
+{
+   "assets":[
+      {
+         "timeOfDay":"sunrise",
+         "accessibilityLabel":"Alabama",
+         "title":"Montgomery",
+         "scene":"countryside",
+         "id":"video_inspire_alabama_montgomery_countryside_00007",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_alabama_montgomery_countryside_00007.mov"
+      }
+   ],
+   "version":1,
+   "initialAssetCount":0
+}
