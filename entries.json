@@ -1,12 +1,164 @@
 {
    "assets":[
       {
+         "timeOfDay":"sunset",
+         "accessibilityLabel":"Florida",
+         "title":"Miami",
+         "scene":"city",
+         "id":"video_inspire_florida_miami_brickell_sunset_00036",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_florida_miami_brickell_sunset_00036.mov"
+      },
+      {
+         "timeOfDay":"sunset",
+         "accessibilityLabel":"Nevada",
+         "title":"Las Vegas",
+         "scene":"city",
+         "id":"video_inspire_nevada_lasvegas_northstrip_021",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_nevada_lasvegas_northstrip_021.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Oregon",
+         "title":"Lone Ranch Beach",
+         "scene":"beach",
+         "id":"video_inspire_oregon_lone-ranch-beach_00015",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_oregon_lone-ranch-beach_00015.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Oregon",
+         "title":"Lone Ranch Beach",
+         "scene":"beach",
+         "id":"video_inspire_oregon_lone-ranch-beach_00001",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_oregon_lone-ranch-beach_00001.mov"
+      },
+      {
+         "timeOfDay":"sunrise",
+         "accessibilityLabel":"California",
+         "title":"Sierra Mar",
+         "scene":"countryside",
+         "id":"video_inspire_california_vineyard_sierra-mar_sunrise_110",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_california_vineyard_sierra-mar_sunrise_110.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Italy",
+         "title":"Como Cerano d'Intelvi",
+         "scene":"countryside",
+         "id":"video_inspire_italy_como_cerano-dintelvi_006",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_italy_como_cerano-dintelvi_006.mov"
+      },
+      {
+         "timeOfDay":"sunset",
+         "accessibilityLabel":"Oregon",
+         "title":"Portland",
+         "scene":"city",
+         "id":"video_inspire_oregon_portland_00064",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_oregon_portland_00064.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Oregon",
+         "title":"House Rock",
+         "scene":"nature",
+         "id":"video_inspire_oregon_house-rock_00002",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_oregon_house-rock_00002.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"California",
+         "title":"Avalon, Catalina Island",
+         "scene":"countryside",
+         "id":"video_inspire_california_catalina_avalon_00053",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_california_catalina_avalon_00053.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"England",
+         "title":"London",
+         "scene":"city",
+         "id":"video_inspire_uk_london_hampstead-heath_003",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_uk_london_hampstead-heath_003.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Texas",
+         "title":"Pecos",
+         "scene":"city",
+         "id":"video_inspire_texas_pecos_foggy-landscape_00018",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_texas_pecos_foggy-landscape_00018.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"California",
+         "title":"San Francisco",
+         "scene":"city",
+         "id":"video_inspire_sanfrancisco_castro_005",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_sanfrancisco_castro_005.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"California",
+         "title":"Big Sur",
+         "scene":"nature",
+         "id":"video_inspire_california_big-sur_landscape_054",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_california_big-sur_landscape_054.mov"
+      },
+      {
          "timeOfDay":"sunrise",
          "accessibilityLabel":"Alabama",
          "title":"Montgomery",
          "scene":"countryside",
          "id":"video_inspire_alabama_montgomery_countryside_00007",
          "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_alabama_montgomery_countryside_00007.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"California",
+         "title":"Bixby Creek Bridge",
+         "scene":"nature",
+         "id":"video_inspire_california_big-sur_bixby_005",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_california_big-sur_bixby_005.mov"
+      },
+      {
+         "timeOfDay":"sunset",
+         "accessibilityLabel":"California",
+         "title":"Santa Barbara Pier",
+         "scene":"beach",
+         "id":"video_inspire_california_santa-barbara_050",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_california_santa-barbara_050.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Oregon",
+         "title":"Lone Ranch Beach",
+         "scene":"beach",
+         "id":"video_inspire_oregon_lone-ranch-beach_00021",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_oregon_lone-ranch-beach_00021.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"Scotland",
+         "title":"Edinburgh",
+         "scene":"city",
+         "id":"video_inspire_uk_edinburgh_arthursseat_010",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_uk_edinburgh_arthursseat_010.mov"
+      },
+      {
+         "timeOfDay":"night",
+         "accessibilityLabel":"Texas",
+         "title":"Austin",
+         "scene":"city",
+         "id":"video_inspire_texas_austin_oct2019_evening_00085",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_texas_austin_oct2019_evening_00085.mov"
+      },
+      {
+         "timeOfDay":"day",
+         "accessibilityLabel":"California",
+         "title":"Catalina Island",
+         "scene":"nature",
+         "id":"video_inspire_california_catalina_00005",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_california_catalina_00005.mov"
       }
    ],
    "version":1,
