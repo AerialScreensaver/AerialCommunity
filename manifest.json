@@ -1,0 +1,8 @@
+{
+	"name" : "feedtest2",
+	"description" : "Lorem ipsum dolor sit amet.",
+	"scenes" : ["landscape"],
+	"manifestUrl" : "https://raw.githubusercontent.com/glouel/AerialCommunity/master/entries.json",
+	"local" : false,
+	"cacheable" : false
+}
