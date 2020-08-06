@@ -4,5 +4,5 @@
 	"scenes" : ["landscape"],
 	"manifestUrl" : "https://raw.githubusercontent.com/glouel/AerialCommunity/master/entries.json",
 	"local" : false,
-	"cacheable" : false
+	"cacheable" : true
 }
