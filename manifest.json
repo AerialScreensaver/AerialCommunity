@@ -1,6 +1,6 @@
 {
-	"name" : "feedtest2",
-	"description" : "Lorem ipsum dolor sit amet.",
+	"name" : "Community beta test",
+	"description" : "This is a test for the upcoming community videos.",
 	"scenes" : ["landscape"],
 	"manifestUrl" : "https://raw.githubusercontent.com/glouel/AerialCommunity/master/entries.json",
 	"local" : false,
