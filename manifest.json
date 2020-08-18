@@ -7,7 +7,7 @@
         "landscape"
       ],
       "manifestUrl": "https://raw.githubusercontent.com/glouel/AerialCommunity/master/entries.json",
-      "license": "https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-sdr/LICENSE.txt",
+      "license": "https://jetsoncreative.com/aeriallicense",
       "more": "https://magicwindow.app/aerial",
       "local": false,
       "cacheable": true
