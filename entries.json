@@ -9,7 +9,6 @@
          "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_florida_miami_brickell_sunset_00036.mov",
          "url-1080-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-sdr/video_inspire_florida_miami_brickell_sunset_00036.mov",
          "url-1080-H264":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-h264/video_inspire_florida_miami_brickell_sunset_00036.mov",
-
          "pointsOfInterest" : {
             "0" : "Sunset flight around downtown Miami"
          }
@@ -89,20 +88,20 @@
          "url-1080-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-sdr/video_inspire_oregon_portland_00064.mov",
          "url-1080-H264":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-h264/video_inspire_oregon_portland_00064.mov",
          "pointsOfInterest" : {
-            "0" : "Sunset flight around Portland"
+            "0" : "Sunset flight around downtown Portland, Oregon"
          }
       },
       {
          "timeOfDay":"day",
-         "accessibilityLabel":"Oregon",
-         "title":"House Rock",
+         "accessibilityLabel":"California",
+         "title":"Big Sur",
          "scene":"nature",
-         "id":"video_inspire_oregon_house-rock_00002",
-         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_oregon_house-rock_00002.mov",
-         "url-1080-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-sdr/video_inspire_oregon_house-rock_00002.mov",
-         "url-1080-H264":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-h264/video_inspire_oregon_house-rock_00002.mov",
+         "id":"video_inspire_california_big-sur_2020_00001",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_california_big-sur_2020_00001",
+         "url-1080-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-sdr/video_inspire_california_big-sur_2020_00001",
+         "url-1080-H264":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-h264/video_inspire_california_big-sur_2020_00001",
          "pointsOfInterest" : {
-            "0" : "Flying over House Rock on the Oregon Coast"
+            "0" : "Morning flight along the coast of Big Sur"
          }
       },
       {
@@ -232,7 +231,7 @@
          "url-1080-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-sdr/video_inspire_uk_edinburgh_arthursseat_010.mov",
          "url-1080-H264":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-h264/video_inspire_uk_edinburgh_arthursseat_010.mov",
          "pointsOfInterest" : {
-            "0" : "Edinburgh flyby around Arthur's Seat"
+            "0" : "Edinburgh flyby around Salisbury Crags"
          }
       },
       {
@@ -245,7 +244,7 @@
          "url-1080-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-sdr/video_inspire_texas_austin_oct2019_evening_00085.mov",
          "url-1080-H264":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-h264/video_inspire_texas_austin_oct2019_evening_00085.mov",
          "pointsOfInterest" : {
-            "0" : "Evening flight through Austin"
+            "0" : "Evening flight through Austin, Texas"
          }
       },
       {
