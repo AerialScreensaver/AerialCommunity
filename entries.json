@@ -97,9 +97,9 @@
          "title":"Big Sur",
          "scene":"nature",
          "id":"video_inspire_california_big-sur_2020_00001",
-         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_california_big-sur_2020_00001",
-         "url-1080-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-sdr/video_inspire_california_big-sur_2020_00001",
-         "url-1080-H264":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-h264/video_inspire_california_big-sur_2020_00001",
+         "url-4K-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-4k-sdr/video_inspire_california_big-sur_2020_00001.mov",
+         "url-1080-SDR":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-sdr/video_inspire_california_big-sur_2020_00001.mov",
+         "url-1080-H264":"https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-h264/video_inspire_california_big-sur_2020_00001.mov",
          "pointsOfInterest" : {
             "0" : "Morning flight along the coast of Big Sur"
          }
