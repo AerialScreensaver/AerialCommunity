@@ -2,12 +2,13 @@
   "sources": [
     {
       "name": "Community Videos from Magic Window (Series 1)",
-      "description": "Enjoy this free collection of aerial videos capturing some of our favorite locations. For more visit https://magicwindow.app/aerials",
+      "description": "Enjoy this free collection of aerial videos capturing some of our favorite locations.",
       "scenes": [
         "landscape"
       ],
       "manifestUrl": "https://raw.githubusercontent.com/glouel/AerialCommunity/master/entries.json",
       "license": "https://github.com/glouel/AerialCommunity/releases/download/mw1-1080p-sdr/LICENSE.txt",
+      "more": "https://magicwindow.app/aerials",
       "local": false,
       "cacheable": true
     }
