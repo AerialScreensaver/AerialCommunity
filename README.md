@@ -21,7 +21,7 @@ Some technical details:
 - At minimum, a 1080p H.264 version is **required**, we recommend you also provide your content in 4K if possible.
 - At the moment, hosting looks possible on GitHub for the video files. You may still host the video files yourself if you wish. 
 
-Undertand that this is a curated list and that there's no guarantee of inclusion. As stated above, you have the opportunity to create your own source (see [here for the technical details](https://github.com/glouel/AerialCommunity/blob/master/CreatingASource.md)). If you want to see your videos added here, please open an issue above. And *first* please read below. 
+Undertand that this is a curated list and that there's no guarantee of inclusion. As stated above, you have the opportunity to create your own source (see [here for the technical details](https://github.com/glouel/AerialCommunity/blob/master/CreatingASource.md)). If you want to see your videos added here, please open an issue above. But *first* please read below. 
 
 Most important rule:
 - **Be nice:** Aerial is an open-source project that I develop and maintain on my free, limited, time. So please, be nice.  
